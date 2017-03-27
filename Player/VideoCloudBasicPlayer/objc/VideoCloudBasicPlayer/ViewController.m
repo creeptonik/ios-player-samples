@@ -1,6 +1,7 @@
 //
 //  ViewController.m
 //  VideoCloudBasicPlayer
+//  Working with default caption
 //
 //  Created by Mike Moscardini on 9/29/14.
 //  Copyright (c) 2014 Brightcove. All rights reserved.
@@ -10,9 +11,9 @@
 
 
 // ** Customize these values with your own account information **
-static NSString * const kViewControllerPlaybackServicePolicyKey = @"BCpkADawqM1W-vUOMe6RSA3pA6Vw-VWUNn5rL0lzQabvrI63-VjS93gVUugDlmBpHIxP16X8TSe5LSKM415UHeMBmxl7pqcwVY_AZ4yKFwIpZPvXE34TpXEYYcmulxJQAOvHbv2dpfq-S_cm";
-static NSString * const kViewControllerAccountID = @"3636334163001";
-static NSString * const kViewControllerVideoID = @"3666678807001";
+static NSString * const kViewControllerPlaybackServicePolicyKey = @"BCpkADawqM1gl7EPY7xni9oBu9RaioqsEVo4aeskz1sfp69ALQ9vum75ecG7sEw5DVgoz9fsf6swv_6X2u5US9YDKcjsnyKT90JVqKsQ6MgP-hd2CVN3QcdjCB43_XFcc2qbVau_Cu-mtpGm";
+static NSString * const kViewControllerAccountID = @"5076297044001";
+static NSString * const kViewControllerVideoID = @"5106091081001";
 
 
 @interface ViewController () <BCOVPlaybackControllerDelegate, BCOVPUIPlayerViewDelegate>
