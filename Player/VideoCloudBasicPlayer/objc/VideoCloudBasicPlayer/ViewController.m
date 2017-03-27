@@ -1,7 +1,7 @@
 //
 //  ViewController.m
 //  VideoCloudBasicPlayer
-//  Working with default caption
+//  Working with default caption 
 //
 //  Created by Mike Moscardini on 9/29/14.
 //  Copyright (c) 2014 Brightcove. All rights reserved.
